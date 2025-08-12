@@ -1,8 +1,10 @@
-# About Me
 
-Hi, I'm **Nishali** 👋  
+
+Hi, I'm **Nishali**  
 Currently a 3rd-year **EEE** student passionate about technology and innovation.  
 
+
+# About Me
 -  Working on **Embedded Systems** and **IoT Projects**  
 -  Enjoy problem-solving & competitive programming  
 -  Passionate about using technology to make a positive impact  
