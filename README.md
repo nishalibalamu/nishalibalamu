@@ -1,16 +1,13 @@
-## Hi there 👋
+# About Me
 
-<!--
-**nishalibalamu/nishalibalamu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hi, I'm **Nishali** 👋  
+Currently a 3rd-year **EEE** student passionate about technology and innovation.  
 
-Here are some ideas to get you started:
+-  Working on **Embedded Systems** and **IoT Projects**  
+-  Enjoy problem-solving & competitive programming  
+-  Passionate about using technology to make a positive impact  
+-  Aspiring to contribute to **open-source** and innovative projects  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Languages & Tools
+- **Languages:** Python, C  
+- **Tools:** Fusion, MATLAB  
